@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="768125d5-94a5-41b1-ad9b-7ecf9045c4e6" name="Changes" comment="" />
+    <list default="true" id="768125d5-94a5-41b1-ad9b-7ecf9045c4e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/src/main/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/src/main/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/src/test/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/src/test/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
