@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="768125d5-94a5-41b1-ad9b-7ecf9045c4e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/src/main/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/src/main/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptutservicesprevisionnels/src/test/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceprevisionelbackend/src/test/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/src/main/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprevisionelbackend/src/test/java/com/valentinisis/ptutservicesprevisionnels/PtutservicesprevisionnelsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceprovisionelfrontend/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +43,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/Desktop/Cours/FIE 3/PTUT"
+    "last_opened_file_path": "C:/Users/User/Desktop/Cours/FIE 3/PTUT",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Cours\FIE 3\PTUT" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
